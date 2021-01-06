@@ -63,7 +63,7 @@ import {
   AntdRangeFilterPlugin,
   AntdSelectFilterPlugin,
 } from '@superset-ui/plugin-filter-antd';
-import TableExtendedChartPlugin from '@aydinchavez/plugin-chart-table-extended';
+import TableExtendedChartPlugin from '@aydink/plugin-chart-table-extended';
 import FilterBoxChartPlugin from '../FilterBox/FilterBoxChartPlugin';
 import TimeTableChartPlugin from '../TimeTable/TimeTableChartPlugin';
 

@@ -172,7 +172,7 @@
     "rison": "^0.1.1",
     "shortid": "^2.2.6",
     "urijs": "^1.18.10",
-    "@aydinchavez/plugin-chart-table-extended": "^0.38.0",
+    "@aydink/plugin-chart-table-extended": "^0.38.0",
     "use-query-params": "^1.1.9"
   },
   "devDependencies": {
